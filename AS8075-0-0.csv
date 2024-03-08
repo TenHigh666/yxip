@@ -1,0 +1,70 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.18.53.106,443,443,true,NRT,Asia Pacific,Tokyo,69,2.88
+20.249.83.244,8443,443,true,SIN,Asia Pacific,Singapore,118,2.80
+20.235.105.146,443,443,true,BOM,Asia Pacific,Mumbai,145,2.75
+20.27.111.153,443,443,true,KIX,Asia Pacific,Osaka,81,2.52
+4.161.41.91,8443,443,true,BOM,Asia Pacific,Mumbai,147,2.47
+20.14.98.47,443,443,true,LAX,North America,Los Angeles,197,2.41
+20.58.24.221,2086,2086,false,LHR,Europe,London,202,2.36
+51.140.44.206,2086,2086,false,LHR,Europe,London,216,2.26
+20.74.235.210,8443,443,true,BOM,Asia Pacific,Mumbai,185,1.98
+74.226.190.244,443,443,true,NRT,Asia Pacific,Tokyo,180,1.87
+40.66.63.160,80,80,false,CDG,Europe,Paris,226,1.86
+20.163.110.81,443,443,true,LAX,North America,Los Angeles,222,1.83
+4.235.8.35,2083,443,true,CPH,Europe,Copenhagen,224,1.83
+51.116.127.112,8443,443,true,FRA,Europe,Frankfurt,199,1.79
+51.140.191.188,2086,2086,false,LHR,Europe,London,205,1.77
+20.106.123.66,2053,443,true,LAX,North America,Los Angeles,174,1.74
+20.150.194.248,443,443,true,LAX,North America,Los Angeles,231,1.72
+20.233.1.56,8443,443,true,BOM,Asia Pacific,Mumbai,189,1.69
+20.157.97.105,80,80,false,AMS,Europe,Amsterdam,307,1.69
+51.120.241.119,8443,443,true,CPH,Europe,Copenhagen,225,1.68
+20.218.152.22,8443,443,true,FRA,Europe,Frankfurt,279,1.67
+20.244.84.91,2053,443,true,BOM,Asia Pacific,Mumbai,150,1.61
+13.87.92.42,443,443,true,LHR,Europe,London,246,1.60
+20.93.17.174,443,443,true,DUB,Europe,Dublin,253,1.56
+20.174.160.235,2053,443,true,BOM,Asia Pacific,Mumbai,147,1.55
+20.220.204.217,443,443,true,YYZ,North America,Toronto,228,1.52
+20.157.97.105,443,443,true,AMS,Europe,Amsterdam,263,1.52
+20.199.80.137,8443,443,true,CDG,Europe,Paris,247,1.51
+20.119.73.200,80,80,false,IAD,North America,Ashburn,250,1.42
+51.107.1.96,8443,443,true,MXP,Europe,Milan,200,1.42
+51.107.6.128,8443,443,true,MXP,Europe,Milan,197,1.42
+20.191.143.72,443,443,true,SIN,Asia Pacific,Singapore,98,1.41
+20.230.56.62,443,443,true,IAD,North America,Ashburn,255,1.40
+4.185.146.233,443,443,true,FRA,Europe,Frankfurt,207,1.38
+104.40.244.228,443,443,true,AMS,Europe,Amsterdam,258,1.36
+20.174.160.235,8443,443,true,BOM,Asia Pacific,Mumbai,142,1.33
+51.107.6.231,8443,443,true,MXP,Europe,Milan,204,1.32
+20.242.120.249,2053,443,true,IAD,North America,Ashburn,225,1.32
+20.218.125.181,443,443,true,FRA,Europe,Frankfurt,258,1.31
+20.244.84.91,8443,443,true,BOM,Asia Pacific,Mumbai,147,1.27
+20.250.70.204,2083,443,true,MXP,Europe,Milan,239,1.24
+20.242.120.249,8443,443,true,IAD,North America,Ashburn,250,1.22
+20.157.97.104,443,443,true,AMS,Europe,Amsterdam,258,1.18
+20.218.152.22,2053,443,true,FRA,Europe,Frankfurt,249,1.15
+20.100.181.9,2096,443,true,CPH,Europe,Copenhagen,274,1.13
+20.203.59.95,2053,443,true,BOM,Asia Pacific,Mumbai,184,1.08
+51.107.11.76,8443,443,true,MXP,Europe,Milan,201,1.02
+20.47.97.179,443,443,true,AMS,Europe,Amsterdam,279,0.99
+20.254.95.107,2096,443,true,LHR,Europe,London,248,0.99
+172.208.36.45,80,443,true,IAD,North America,Ashburn,295,0.94
+20.214.204.10,8443,443,true,ICN,Asia Pacific,Seoul,121,0.93
+98.70.26.236,443,443,true,BOM,Asia Pacific,Mumbai,98,0.86
+51.116.127.112,2053,443,true,FRA,Europe,Frankfurt,202,0.69
+20.174.56.54,8443,443,true,BOM,Asia Pacific,Mumbai,139,0.62
+51.107.7.135,8443,443,true,MXP,Europe,Milan,199,0.58
+172.208.36.45,443,443,true,IAD,North America,Ashburn,298,0.56
+51.140.154.44,2086,2086,false,LHR,Europe,London,206,0.49
+20.246.127.166,443,443,true,IAD,North America,Ashburn,227,0.39
+13.94.193.154,2053,443,true,AMS,Europe,Amsterdam,247,0.37
+20.90.163.76,2053,443,true,LHR,Europe,London,248,0.36
+20.117.172.164,2053,443,true,LHR,Europe,London,249,0.34
+20.246.144.214,443,443,true,IAD,North America,Ashburn,254,0.33
+20.31.76.102,443,443,true,AMS,Europe,Amsterdam,253,0.32
+20.47.97.179,80,80,false,AMS,Europe,Amsterdam,265,0.27
+13.94.193.154,8443,443,true,AMS,Europe,Amsterdam,246,0.27
+52.151.81.2,2083,443,true,LHR,Europe,London,209,0.11
+20.204.43.57,80,443,false,BOM,Asia Pacific,Mumbai,150,0.02
+20.33.24.82,2087,443,true,LHR,Europe,London,263,0.02
+52.230.92.86,443,443,true,SIN,Asia Pacific,Singapore,48,0.00
